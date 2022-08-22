@@ -2,6 +2,8 @@
 
 ## Project Description
 
+This is a program I created in my first year of University.
+
 My project is a lightweight and convenient flashcard software
 that users can use to quickly design small memorization tests
 for themselves on any subject. The application will consist
